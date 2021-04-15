@@ -4,3 +4,5 @@
 4.- Agrega Carrousel de imagenes en index.html - Agrega iconos en contacto.html - Modifica textos
 5.- Arregla el footer con redes sociales, mision y enfoque.
 6.- Ajuste de Carrusel en Pagina Principal
+7.- Se agrega galeria de imagenes bajo un carrousel (Se debe cambiar el metodo). Se ajustan imagenes
+8.- Se agrega terminos-condiciones y se vincula. - Hipervinculos Facebook | twitter
