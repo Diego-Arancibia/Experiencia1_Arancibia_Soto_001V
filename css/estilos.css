@@ -131,6 +131,19 @@ div.img-table img{
 	width: 10%;
 }
 
+/*Carrousel*/
+.carousel-item{
+	width: 50%
+	height: 500px;
+}
+
+@media (max-width: 600px){
+	.carousel-item{
+		height: 280px;
+	}
+}
+
+
 /* Seccion llamada*/
 
 .llamada{
@@ -297,8 +310,6 @@ div.columna3 h1{
     }
 }
 
-
-
 /*Formulario*/
 form {
   width: 100%;
@@ -323,32 +334,6 @@ form {
   cursor: pointer;
 }
 
-/*Social Flotantes Pagina Contacto*/
-*
-{box-sizing:border-box;}
-
-.container{
-  width:95%;
-  max-width:900px;
-  padding:32px 64px;
-  margin:auto;
-}
-
-.social{
-			/*las imágenes usadas tienen width de 48px*/
-width:48px;
-position:fixed;
-top:80px;
-left:30;
-		}
-
-/* Extra centrado vertical*/
-
-.social{
-	top:50%;
-	height:205px;
-	margin-top:-100px;
-}
 
 /*Galeria de fotos*/
 
