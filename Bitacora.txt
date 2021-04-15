@@ -1,3 +1,4 @@
 1.- Carga de directorio con parte del proyecto, las modificaciones sera enviadas a traves de este medio a github
 2.- Link para unir Index - Contacto - Conocenos 
 3.- Actualiza iconos y comentarios en las 3 paginas de muestra.
+4.- Agrega Carrousel de imagenes en index.html - Agrega iconos en contacto.html - Modifica textos
