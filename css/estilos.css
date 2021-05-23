@@ -405,16 +405,18 @@ div.desc {
       margin: 10px 3px;
     }
 
-* {
+/*Intranet*/
+
+/* {
     margin: 0;
     padding: 0;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-}
+} */
 
 body {
-    background: url(../img/carro2.jpg);
+    background: url(../img/header.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: Roboto;
