@@ -21,9 +21,6 @@
 1	Crea Login Formularios html - css
 2 	crea js para mostrar  Login / Formulario
 3	ajusta fondos y estilos para formulario
-4	Agrega el boton de contacto via mensajeria Instantanea
-5	agrega funciones de una api al boton dentro de galeria
-
-
+4 	inserta api feriados y comunicacion via wsp
 
 

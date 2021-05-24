@@ -6,7 +6,7 @@
 }
 
 body{
-	background: #FFA07A
+	background: #fff;
 }
 
 header{
@@ -161,12 +161,6 @@ div.carousel-item{
 
 div.llamada-texto{
 	text-align: center;
-}
-
-div.llamada-texto h2{
-    font-size: 32px;
-    color: #fff;
-    padding-top: 50px;
 }
 div.llamada-texto h3{
 	font-size: 32px;
@@ -411,25 +405,22 @@ div.desc {
       margin: 10px 3px;
     }
 
-
 /*Intranet*/
 
-
-* {
+/* {
     margin: 0;
     padding: 0;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-} 
+} */
 
-/*
 body {
     background: url(../img/header.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: Roboto;
-} */
+}
 
 .contenedor-form {
     background: rgba(0,0,0,.7);
@@ -451,8 +442,8 @@ body {
     font-size: 12px;
     line-height: 25px;
     text-align: center;
-    border-top: 2px solid #ff852b;
-    border-bottom: 2px solid #ff852b;
+    border-top: 2px solid #ff851b;
+    border-bottom: 2px solid #ff851b;
     cursor: pointer;
     transition: all .5s ease;
 }
@@ -540,24 +531,6 @@ body {
     display: block;
 }
 
-.btnWhats{
-    width: 70px;
-    bottom: 20px;
-    right: 20px;
-}
-
-.fondo{
-    background-color: blue;
-} 
-
-.color{
-    color: blue;
-}
 
 
-#caja{
-    width: 300px;
-    border: 15px solid green;
-    padding: 20px;
-    margin: 20px;
-}
+
