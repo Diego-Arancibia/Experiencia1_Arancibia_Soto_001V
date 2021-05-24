@@ -405,25 +405,40 @@ div.desc {
       margin: 10px 3px;
     }
 
+<<<<<<< HEAD
 
 /*Intranet*/
 
 
 * {
+=======
+/*Intranet*/
+
+/* {
+>>>>>>> 098a7b4e4ba532d95f998b43b79c9f5ecb494bf8
     margin: 0;
     padding: 0;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+<<<<<<< HEAD
 } 
 
 /*
+=======
+} */
+
+>>>>>>> 098a7b4e4ba532d95f998b43b79c9f5ecb494bf8
 body {
     background: url(../img/header.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: Roboto;
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 098a7b4e4ba532d95f998b43b79c9f5ecb494bf8
 
 .contenedor-form {
     background: rgba(0,0,0,.7);
@@ -445,8 +460,13 @@ body {
     font-size: 12px;
     line-height: 25px;
     text-align: center;
+<<<<<<< HEAD
     border-top: 2px solid #ff852b;
     border-bottom: 2px solid #ff852b;
+=======
+    border-top: 2px solid #ff851b;
+    border-bottom: 2px solid #ff851b;
+>>>>>>> 098a7b4e4ba532d95f998b43b79c9f5ecb494bf8
     cursor: pointer;
     transition: all .5s ease;
 }
@@ -534,6 +554,7 @@ body {
     display: block;
 }
 
+<<<<<<< HEAD
 .btnWhats{
     width: 70px;
     bottom: 20px;
@@ -555,3 +576,8 @@ body {
     padding: 20px;
     margin: 20px;
 }
+=======
+
+
+
+>>>>>>> 098a7b4e4ba532d95f998b43b79c9f5ecb494bf8

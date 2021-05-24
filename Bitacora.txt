@@ -21,5 +21,6 @@
 1	Crea Login Formularios html - css
 2 	crea js para mostrar  Login / Formulario
 3	ajusta fondos y estilos para formulario
+4 	inserta api feriados y comunicacion via wsp
 
 
