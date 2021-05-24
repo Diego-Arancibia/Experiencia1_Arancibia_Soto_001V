@@ -13,3 +13,13 @@
 13	Se afinan detalles de orotografia, se añade, ''botón de la hamburguesa'' y algunos otros detalles para posterior entrega.
 14	Se separa la galeria del quienes somos a un HTML solo
 15	Ultimo Commit en GIT y envio de proyecto
+
+
+
+--23 / 05
+
+1	Crea Login Formularios html - css
+2 	crea js para mostrar  Login / Formulario
+3	ajusta fondos y estilos para formulario
+
+
